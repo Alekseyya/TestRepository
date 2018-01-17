@@ -6,12 +6,19 @@ using System.Threading.Tasks;
 
 namespace TestConsole
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello");
         }
+
+         public static int Count(int a, int b)
+        {
+            return a + b;
+        }
+
+
     }
 }

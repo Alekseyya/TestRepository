@@ -1,0 +1,6 @@
+C:\TMP\TestJenkins\TestConsole\bin\Debug\TestConsole.exe.config
+C:\TMP\TestJenkins\TestConsole\bin\Debug\TestConsole.exe
+C:\TMP\TestJenkins\TestConsole\bin\Debug\TestConsole.pdb
+C:\TMP\TestJenkins\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\TMP\TestJenkins\TestConsole\obj\Debug\TestConsole.exe
+C:\TMP\TestJenkins\TestConsole\obj\Debug\TestConsole.pdb
